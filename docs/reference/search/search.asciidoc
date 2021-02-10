@@ -35,7 +35,7 @@ or index alias. For cross-cluster search, see <<cross-cluster-configuring>>.
 
 Allows you to execute a search query and get back search hits that match the
 query. You can provide search queries using the <<search-api-query-params-q,`q`
-query string parameter>> or <<search-request-body,request body>>.
+query string parameter>> or <<search-search-api-request-body,request body>>.
 
 [[search-search-api-path-params]]
 ==== {api-path-parms-title}
